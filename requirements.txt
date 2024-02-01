@@ -1,0 +1,11 @@
+requests
+scapy
+beautifulsoup4
+paramiko
+python-nmap
+sqlalchemy
+cryptography
+pyopenssl
+mechanize
+impacket
+
